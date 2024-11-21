@@ -1,0 +1,20 @@
+1.
+Dlaczego atrybut alt jest w języku angielskim pomimo tego, że artykuł jest w języku polskim?
+- Wybrałem angielski ze względu na to, że wydaję mi się bardziej optymalnym językiem jeśli chodzi o prompty do generacji obrazu. Jednak nie wiem jak dokładnie mogło by wpływać na stronę to że tekst alternatywny jest w innym języku niż reszta strony - tu musiałbym jeszcze doczytać.
+
+2.
+Nie dodawałem żadnych innych atrybutów (oprócz class="caption-text") typu rozmiary, <br>, ani też żadnych divów - jeśli dobrze rozumiem to są to wybory na etapie css/javascript. Jeśli potrzeba to dalej można to dodać w promptach/programie. Mam nadzieję że to co w punkcie 2. napisałem ma sens - nie mam dużego doświadczenia z praktykami tworzenia stron - jedynie jakieś amatorskie na drodze nauki podstaw róznych dziedzin informatyki.
+Rozumiem że chodzi o taką lekko otagowaną strukturę html. Jeśli założenie co do zadania było żeby zagłębić się w nadawanie obiektom id, tworzenie divów, class i innych atrybutów to mogę to poprawić.
+
+3.
+Na wstęp wybrałem model gpt-4o. W zależności od konkretnych potrzeb i potencjalnej ilości użycia takiego programu można przeprowadzić obszerniejsze testy oceniające jakość odpowiedzi danego modelu w naszym zadaniu a jego koszt. Nie zawsze droższy czy nowszy model będzie będzie tracił na jakości, a może będzie znacznie tańszy w uzyciu. Czasami nawet i starszy czy mniejszy model może dać lepsze odpowiedzi pod kątem tego co oczekujemy.
+
+4.
+To jest taki wstępny program - można wedle uznania i potrzeby rozwijać go w różne strony. 
+Według właśnie tych potrzeb można potem iść ścieżką takiego ogólnego modelu do róznorakich typów artykułów (pupularnonaukowe, akademickie, opisujące biznes, rozrywkowe, ...), bądź skupić się na konkretnym typie i według takiego zapotrzebowania go rozwijać - to będzie najbardziej efektywna metoda. 
+Można też stworzyć podobne modele, które będą różnić się celem zastosowania, gdzie w zależności od tego jaki typ artykułu chcemy ustruktutryzować dany model wybierzemy - może to być choćby wpisanie w miejsce zmiennej dany typ i program sam wyślę to do odpowiedniego modelu.
+
+
+5. 
+Dodałem dwa dodatkowe artykuły do testów wygenerowane przez chat gpt.
+
