@@ -20,7 +20,7 @@ Dwie możliwość:
 W tym pliku wstawiamy poniższy kod w miejscu bezpośrednio pod "<env name="PYTHONUNBUFFERED" value="1"/>"
 W miejsce * należy wpisać nasz klucz api:
 <env name="OPENAI_API_KEY" value="*"/>
-2.Bezpośrednio w edytorze IDE 
+2. Bezpośrednio w edytorze IDE 
 
 
 ## Nota końcowa
