@@ -17,9 +17,9 @@ Program do tekstu artykułu wstawia tagi html oraz tag na obraz wraz z przykład
 Jako zmienną środowiskową ustawiamy nasz klucz api z openai
 Dwie możliwość:
 1. Miejsce do edycji można znaleźć w /.idea/workspace.xml
-W tym pliku wstawiamy poniższy kod w miejscu bezpośrednio pod "<env name="PYTHONUNBUFFERED" value="1"/>"
+W tym pliku wstawiamy poniższy kod w miejscu bezpośrednio pod \<env name="PYTHONUNBUFFERED" value="1"/>
 W miejsce * należy wpisać nasz klucz api:
-<env name="OPENAI_API_KEY" value="*"/>
+\<env name="OPENAI_API_KEY" value="*"/>
 
 2. Bezpośrednio w edytorze IDE 
 
